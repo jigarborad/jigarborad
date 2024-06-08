@@ -29,9 +29,10 @@ From the basics of programming to building sophisticated machine learning models
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jigarborad608?ext=heatmap)](https://leetcode.com/jigarborad608)
 
 ### 🚀 Featured Projects
-1. **[Hate Speech Detection](https://github.com/jigarborad/NLP-Hate-Speech-Detection-Internship-)**
-2. **[Body Fat Estimator](https://github.com/jigarborad/ML-body-fat-generator)**
-3. **[Cab Data Analysis](https://github.com/jigarborad/Cab-Data-Analysis)**
+1. **[LLM Chat with PDF (RAG)](https://github.com/jigarborad/llm-chat-rag)**
+2. **[Hate Speech Detection](https://github.com/jigarborad/NLP-Hate-Speech-Detection-Internship-)**
+3. **[Body Fat Estimator](https://github.com/jigarborad/ML-body-fat-generator)**
+4. **[Cab Data Analysis](https://github.com/jigarborad/Cab-Data-Analysis)**
 
 ## 🏆 Achievements & Certifications
 - **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/certificate/UC-9b1890eb-da47-41d3-83f6-1eb14246716c/)** by Udemy
