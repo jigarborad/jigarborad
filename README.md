@@ -9,7 +9,7 @@ Hey there! I'm Jigar, a dedicated Machine Learning, Natural Language Processing,
 From the basics of programming to building sophisticated machine learning models, my coding adventure has been filled with exciting milestones. I thrive on solving complex problems and turning innovative ideas into reality.
 
 ### What I'm Excited About
-- 🔭 **Current Projects**: Enhancing my Python skills and solving LeetCode challenges.
+- 🔭 **Current Projects**: Working on RAG Poject. Enhancing my Python skills and solving LeetCode challenges.
 - 🌱 **Learning**: Cutting-edge NLP techniques and advancements in machine learning.
 - 🧩 **Challenges**: Always ready to tackle new coding puzzles and explore innovative ML solutions.
 
